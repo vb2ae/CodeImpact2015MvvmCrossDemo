@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCrossDemo", "MvvmCrossDemo\MvvmCrossDemo.csproj", "{CA149562-D3ED-43A3-A14E-F002BA7FF817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCrossDemo.UITests", "MvvmCrossDemo.UITests\MvvmCrossDemo.UITests.csproj", "{7C0325B2-07D8-4EA5-9478-9DD76856854C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCross.Core", "MvvmCross.Core\MvvmCross.Core.csproj", "{14AD48CC-9EA2-45CC-9255-CA4139693489}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14AD48CC-9EA2-45CC-9255-CA4139693489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AD48CC-9EA2-45CC-9255-CA4139693489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AD48CC-9EA2-45CC-9255-CA4139693489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AD48CC-9EA2-45CC-9255-CA4139693489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0325B2-07D8-4EA5-9478-9DD76856854C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0325B2-07D8-4EA5-9478-9DD76856854C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0325B2-07D8-4EA5-9478-9DD76856854C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0325B2-07D8-4EA5-9478-9DD76856854C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA149562-D3ED-43A3-A14E-F002BA7FF817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA149562-D3ED-43A3-A14E-F002BA7FF817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA149562-D3ED-43A3-A14E-F002BA7FF817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA149562-D3ED-43A3-A14E-F002BA7FF817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
